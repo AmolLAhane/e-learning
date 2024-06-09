@@ -20,3 +20,4 @@ Run redis-commander on windows (before that run redis server):
 Start stripe webhook listener (before that remember to install stripe CLI)
 
 `stripe listen -f https://localhost:44367/api/payments/webhook --skip-verify`
+//trying to understand the code//
